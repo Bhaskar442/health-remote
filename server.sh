@@ -4,4 +4,5 @@ echo "server health"
 uptime 
 df -h
 date
+free -m
 
