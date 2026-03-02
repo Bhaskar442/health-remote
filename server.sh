@@ -5,5 +5,4 @@ uptime
 df -h
 date
 free -m
-NAME=bhaskar
-echo "$NAME"
+
